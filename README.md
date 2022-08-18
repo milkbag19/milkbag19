@@ -2,10 +2,6 @@
 
 ### __<p align="center">Hi, My name is Josh! Here is a little about me...</p>__
 
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
-</div>
-
 <div align="center">
   
 # Projects I've worked on
@@ -39,5 +35,9 @@
 # Main OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
+  
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
+</div>
   
 </div>

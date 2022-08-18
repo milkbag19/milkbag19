@@ -1,5 +1,7 @@
-### Hi, My name is Josh! Here is a little about me...
+
+
 <div id="header" align="center">
+  ### Hi, My name is Josh! Here is a little about me...
   <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
 </div>
 # Projects I've worked on

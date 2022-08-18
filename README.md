@@ -1,7 +1,4 @@
-### Hi, My name is Josh!
-
-# About me
-Fullstack Developer that loves to build platforms
+### Hi, My name is Josh! Here is a little about me...
 
 # Projects I've worked on
   [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)

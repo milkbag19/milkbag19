@@ -3,7 +3,7 @@
 # About me
 Fullstack Developer that loves to build platforms
 
-# Projects
+# Projects I've worked on
 
   ### Sutton.com
   [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)

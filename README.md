@@ -1,17 +1,17 @@
 ### Hi, My name is Josh!
 
-## About me
+# About me
 Fullstack Developer that loves to build platforms
 
-## Projects
+# Projects
 
-  # Sutton.com
+  ### Sutton.com
   ![Sutton.com](https://sutton.com/img/logos/sutton-logo-black.svg)
   
-  # dashboard.homeprint.io
+  ### dashboard.homeprint.io
   ![dashboard.homeprint.com](https://homeprint.io/wp-content/uploads/2021/11/HOMEPRINT-LOGO.png)
 
-## Skills
+# Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,9 +27,9 @@ Fullstack Developer that loves to build platforms
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Statistics
+# Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=milkbag19&hide=contribs&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkbag19&layout=compact&theme=tokyonight)
 
-## Main OS
+# Main OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)

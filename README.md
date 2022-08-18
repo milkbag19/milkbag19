@@ -16,6 +16,7 @@
   [<img alt="alt_text" width="250px" src="https://commonempire.com/wp-content/uploads/2022/08/CE-Footer-LOGO.png" />](https://commonempire.com/app-features/)
   
   </div>
+  
 #
 # Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

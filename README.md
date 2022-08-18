@@ -8,7 +8,7 @@ Fullstack Developer that loves to build platforms
   ### Sutton.com
   [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)
   
-  ### dashboard.homeprint.io
+  ### Homeprint.io
   [<img alt="alt_text" width="250px" src="https://homeprint.io/wp-content/uploads/2021/11/HOMEPRINT-LOGO.png" />](https://dashboard.homeprint.io)
 
 # Skills

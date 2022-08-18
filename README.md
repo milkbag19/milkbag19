@@ -1,6 +1,6 @@
 
 
-<p align="right">Hi, My name is Josh! Here is a little about me...</p>
+<p align="center">Hi, My name is Josh! Here is a little about me...</p>
 <div id="header" align="center">
   <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
 </div>

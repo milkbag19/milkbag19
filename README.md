@@ -1,6 +1,7 @@
 
 
 <p align="center">Hi, My name is Josh! Here is a little about me...</p>
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 # Projects I've worked on

@@ -6,7 +6,7 @@
   <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
 </div>
 
-<div>
+<div align="center">
   
 # Projects I've worked on
   [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)
@@ -15,7 +15,6 @@
   #
   [<img alt="alt_text" width="250px" src="https://commonempire.com/wp-content/uploads/2022/08/CE-Footer-LOGO.png" />](https://commonempire.com/app-features/)
   
-  </div>
   
 #
 # Skills
@@ -40,3 +39,6 @@
 
 # Main OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  
+  
+</div>

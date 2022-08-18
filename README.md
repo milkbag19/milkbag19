@@ -1,9 +1,8 @@
 
 
 <p align="center">Hi, My name is Josh! Here is a little about me...</p>
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/561220065584873474/691542483284394024/1584647591844.gif" width="100"/>
-</div>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 # Projects I've worked on
   [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)
   #

@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkbag19&layout=compact&theme=tokyonight)
 
 # Main OS
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Kubuntu-E95420?style=for-the-badge&logo=kubuntu&logoColor=white)
   
   
 <div id="header" align="center">

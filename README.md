@@ -30,7 +30,7 @@
 ![Haskell](https://img.shields.io/badge/haskell-%23092E20.svg?style=for-the-badge&logo=haskell&logoColor=%234FC08D)
 ![C++](https://img.shields.io/badge/C++-%23316192.svg?style=for-the-badge&logo=cplusplus&logoColor=%white)
 ![JIRA](https://img.shields.io/badge/JIRA-%2300f.svg?style=for-the-badge&logo=Jira%20Software&logoColor=%white)
-![AWS-S3](https://img.shields.io/badge/Amazon%20S3-%yellow.svg?style=for-the-badge&logo=amazons3&logoColor=%2361DAFB)
+![AWS-S3](https://img.shields.io/badge/Amazon%20S3-%df0397.svg?style=for-the-badge&logo=amazons3&logoColor=%white)
 ![AWS-RDS](https://img.shields.io/badge/Amazon%20RDS-%23FF2D20.svg?style=for-the-badge&logo=amazonrds&logoColor=%white)
 ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-%2320232a.svg?style=for-the-badge&logo=amazonec2&logoColor=%2361DAFB)
 

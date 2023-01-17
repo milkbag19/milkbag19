@@ -31,7 +31,7 @@
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB)
 ![JIRA](https://img.shields.io/badge/JIRA-%2320232a.svg?style=for-the-badge&logo=Jira%20Software&logoColor=%2361DAFB)
 ![AWS-S3](https://img.shields.io/badge/Amazon%20S3-%2320232a.svg?style=for-the-badge&logo=amazons3&logoColor=%2361DAFB)
-![AWS-RDS](https://img.shields.io/badge/Amazon%20RDS-%2320232a.svg?style=for-the-badge&logo=amazonrds&logoColor=%2361DAFB)
+![AWS-RDS](https://img.shields.io/badge/Amazon%20RDS-%2320232a.svg?style=for-the-badge&logo=amazonrds&logoColor=%ff3300)
 ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-%2320232a.svg?style=for-the-badge&logo=amazonec2&logoColor=%2361DAFB)
 
 # Statistics

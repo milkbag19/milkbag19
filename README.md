@@ -27,7 +27,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Haskell](https://img.shields.io/badge/haskell-%2320232a.svg?style=for-the-badge&logo=haskell&logoColor=%2361DAFB)
+![Haskell](https://img.shields.io/badge/haskell-%23092E20.svg?style=for-the-badge&logo=haskell&logoColor=%234FC08D)
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=cplusplus&logoColor=%2361DAFB)
 ![JIRA](https://img.shields.io/badge/JIRA-%2320232a.svg?style=for-the-badge&logo=Jira%20Software&logoColor=%2361DAFB)
 ![AWS-S3](https://img.shields.io/badge/Amazon%20S3-%2320232a.svg?style=for-the-badge&logo=amazons3&logoColor=%2361DAFB)

@@ -27,6 +27,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Haskell](https://img.shields.io/badge/haskell-%2320232a.svg?style=for-the-badge&logo=haskell&logoColor=%2361DAFB)
 
 # Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=milkbag19&hide=contribs&show_icons=true&theme=tokyonight)

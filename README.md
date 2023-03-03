@@ -5,7 +5,7 @@
 <div align="center">
   
 # Products I've worked on
-  [<img alt="alt_text" width="125px" src="https://sutton.com/img/logos/sutton-logo.svg" />](https://www.sutton.com/)
+  [<img alt="alt_text" width="250px" src="[https://homeprint.io/wp-content/uploads/2021/11/HOMEPRINT-LOGO.png](https://user-images.githubusercontent.com/40251012/222747334-1b73cd13-90f2-48b7-91a7-5c3ef838e230.png)" />](https://sutton.com)
   
   [<img alt="alt_text" width="250px" src="https://homeprint.io/wp-content/uploads/2021/11/HOMEPRINT-LOGO.png" />](https://homeprint.io)
   

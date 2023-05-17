@@ -7,7 +7,7 @@
 # stuffs I've worked on
   [<img alt="alt_text" width="250px" src="https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/sd20e14001537adaa/image/i78df634f9ffe41a4/version/1642043036/image.jpg" />](https://sutton.com)
   
-  Active
+  Maintaining
   
   [<img alt="alt_text" width="250px" src="https://homeprint.io/wp-content/uploads/2021/11/HOMEPRINT-LOGO.png" />](https://homeprint.io)
   
@@ -15,7 +15,7 @@
   
   [<img alt="alt_text" width="250px" src="https://commonempire.com/wp-content/uploads/2022/08/CE-Footer-LOGO.png" />](https://commonempire.com/app-features/)
   
-  No longer active
+  Maintaining
 #
   
 # Skills

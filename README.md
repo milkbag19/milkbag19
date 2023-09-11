@@ -15,7 +15,7 @@
   
   [<img alt="alt_text" width="250px" src="https://commonempire.com/wp-content/uploads/2022/08/CE-Footer-LOGO.png" />](https://commonempire.com/app-features/)
   
-  Active
+  Paused
 #
   
 # Skills

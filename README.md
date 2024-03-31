@@ -1,11 +1,11 @@
 
 
-### __<p align="center">This is my github.  enjoy the milk.</p>__
+### __<p align="center">This is my github.  Enjoy the milk.</p>__
 
 <div align="center">
   
 # stuffs I've worked on
-  [<img alt="alt_text" width="250px" src="[https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/sd20e14001537adaa/image/i78df634f9ffe41a4/version/1642043036/image.jpg](https://sutton.com/img/logos/sutton-logo-black.svg)" />](https://sutton.com)
+  [<img alt="alt_text" width="250px" src="[https://image.jimcdn.com/app/cms/image/transf/dimension=4096x4096:format=jpg/path/sd20e14001537adaa/image/i78df634f9ffe41a4/version/1642043036/image.jpg]" />](https://sutton.com)
   
   Maintaining
   

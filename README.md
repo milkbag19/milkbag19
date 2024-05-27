@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# stuffs I've worked on
+# Projects I have contributed
   [<img alt="alt_text" width="250px" src="https://sutton.com/img/logos/sutton-logo-nav.svg" />](https://sutton.com)
   
   
@@ -36,10 +36,6 @@
 ![AWS-S3](https://img.shields.io/badge/Amazon%20S3-df0397.svg?style=for-the-badge&logo=amazons3&logoColor=%white)
 ![AWS-RDS](https://img.shields.io/badge/Amazon%20RDS-%23FF2D20.svg?style=for-the-badge&logo=amazonrds&logoColor=%white)
 ![AWS-EC2](https://img.shields.io/badge/Amazon%20EC2-%2320232a.svg?style=for-the-badge&logo=amazonec2&logoColor=%2361DAFB)
-
-# Statistics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=milkbag19&hide=contribs&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milkbag19&layout=compact&theme=tokyonight)
 
 # Main OS
 ![Ubuntu](https://img.shields.io/badge/Kubuntu-E95420?style=for-the-badge&logo=kubuntu&logoColor=white)

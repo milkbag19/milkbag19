@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# Recent projects
+# stuffs im apart of
   [<img alt="alt_text" width="250px" src="https://sutton.com/img/logos/sutton-logo-nav.svg" />](https://sutton.com)
   
   

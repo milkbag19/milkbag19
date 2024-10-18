@@ -11,8 +11,6 @@
   [<img alt="alt_text" width="250px" src="https://github.com/milkbag19/milkbag19/assets/40251012/47328c4c-6f3a-48cb-b2ba-101a168cfd93" />](https://homeprint.io)
   
 
-  
-#
 
 # Main OS
 ![Ubuntu](https://img.shields.io/badge/Kubuntu-E95420?style=for-the-badge&logo=kubuntu&logoColor=white)
